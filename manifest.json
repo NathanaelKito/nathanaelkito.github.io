@@ -13,11 +13,11 @@
   "start_url": "index.html"
 
     "icons": [{
-      "src": "images/logo.png",
+      "src": "/images/logo.png",
       "sizes": "72x72",
       "type": "image/png"
      }, {
-      "src": "images/logo.png",
+      "src": "/images/logo.png",
       "sizes": "512x512",
       "type": "image/png"
      }]

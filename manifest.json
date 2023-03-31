@@ -1,20 +1,23 @@
 {
-    "name": "Portofolio",
-    "short_name": "Porto",
-    "description": "ini website UTS AMBW",
-    "lang": "en-US",
-    "dir": "ltr",
-    "theme_color": "#414f57",
-    "start_url": ".",
-    "background_color": "#000",
-    "display": "standalone",
-    "orientation": "portrait-primary",
+    
+  "name": "Portofolio",
+  "short_name": "Port",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "description": "A simple Portofolio app, implementing a lot of PWA love.",
+  "scope": ".",
+  "dir": "ltr",
+  "lang":"en-US",
+  "start_url": "index.html"
+
     "icons": [{
-      "src": "images/logo.png",
+      "src": "logo.png",
       "sizes": "72x72",
       "type": "image/png"
      }, {
-      "src": "path/to/icons/512x512.png",
+      "src": "logo.png",
       "sizes": "512x512",
       "type": "image/png"
      }]
